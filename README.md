@@ -12,7 +12,7 @@ O banco SQLite não está incluído neste repositório devido ao seu tamanho (~2
 
 Ele pode ser baixado em:
 
-(cole aqui o link do OneDrive)
+(https://drive.google.com/file/d/19Z1Juugq5WBzD9z-LoNAdxENBw2VPv8A/view?usp=sharing)
 
 Após baixar, coloque o arquivo em:
 
