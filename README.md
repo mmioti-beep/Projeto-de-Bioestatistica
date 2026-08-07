@@ -14,8 +14,13 @@ Ele pode ser baixado em:
 
 (https://drive.google.com/file/d/19Z1Juugq5WBzD9z-LoNAdxENBw2VPv8A/view?usp=sharing)
 
-Após baixar, coloque o arquivo em:
+Após baixar, altere esta linha do script:
 
+```r
+dbConnect(
+  RSQLite::SQLite(),
+  "C:/CAMINHO/DO/SEU/srag_ate25.sqlite"
+)
 ```
-dados/srag_ate25.sqlite
-```
+
+para o caminho onde você salvou o arquivo.
